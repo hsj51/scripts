@@ -1,0 +1,18 @@
+[submodule "Bash-Snippets"]
+	path = Bash-Snippets
+	url = https://github.com/alexanderepstein/Bash-Snippets
+[submodule "adb-multi"]
+	path = adb-multi
+	url = https://github.com/KreAch3R/adb-multi
+[submodule "akhilnarang_scripts"]
+	path = akhilnarang_scripts
+	url = https://github.com/akhilnarang/scripts
+[submodule "android-scripts"]
+	path = android-scripts
+	url = https://github.com/tdm/android-scripts
+[submodule "git-scripts"]
+	path = git-scripts
+	url = https://github.com/jwiegley/git-scripts
+[submodule "linux_stable"]
+	path = linux_stable
+	url = https://github.com/android-linux-stable/script
